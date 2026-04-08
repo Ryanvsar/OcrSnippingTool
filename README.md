@@ -1,13 +1,9 @@
 # OCR Snipping Tool
-<<<<<<< HEAD
 
-=======
->>>>>>> f2d4c21fba4a11e473faafc549800862a97e59e2
 A lightweight, tray-based Windows utility that lets you draw a selection box over any part of your screen and instantly copy the text to your clipboard — even when the text isn't normally selectable (images, videos, PDFs, games, etc.).
 
 Everything runs locally using Windows' built-in OCR engine. No internet connection, no third-party APIs.
 
-<<<<<<< HEAD
 ## Features
 
 - **Global hotkey** — press `Ctrl+Shift+X` from anywhere to activate
@@ -57,7 +53,6 @@ Right-click the tray icon and choose **Settings** to configure:
 - WPF / .NET 10
 - `Windows.Media.Ocr` (built-in Windows OCR)
 - Win32 P/Invoke (`RegisterHotKey`, `BitBlt`)
-=======
 # Features
 - Global hotkey — press Ctrl+Shift+X from anywhere to activate
 - Draw to select — drag a rectangle over any screen region
@@ -97,4 +92,3 @@ Right-click the tray icon and choose Settings to configure:
 WPF / .NET 10
 Windows.Media.Ocr (built-in Windows OCR)
 Win32 P/Invoke (RegisterHotKey, BitBlt)
->>>>>>> f2d4c21fba4a11e473faafc549800862a97e59e2
