@@ -22,7 +22,7 @@ Everything runs locally using Windows' built-in OCR engine. No internet connecti
 ## Getting Started
 
 ```
-git clone https://github.com/YOUR_USERNAME/OcrSnippingTool.git
+git clone https://github.com/Ryanvsar/OcrSnippingTool.git
 cd OcrSnippingTool
 dotnet run --project OcrSnippingTool
 ```
