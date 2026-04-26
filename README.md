@@ -1,6 +1,6 @@
 # OCR Snipping Tool
 
-A lightweight, tray-based Windows utility that lets you draw a selection box over any part of your screen and instantly copy the text to your clipboard — even when the text isn't normally selectable (images, videos, PDFs, games, etc.).
+A lightweight, tray-based Windows utility that lets you draw a selection box over any part of your screen and instantly copy the text to your clipboard even when the text isn't normally selectable (images, videos, PDFs, games, etc.).
 
 Everything runs locally using Windows' built-in OCR engine. No internet connection, no third-party APIs.
 
